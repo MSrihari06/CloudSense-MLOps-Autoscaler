@@ -1,0 +1,15 @@
+# Environments
+.env
+.venv/
+venv/
+__pycache__/
+
+# Local Data
+data/training_features.csv
+
+# Ignore large model files if they exceed GitHub's 100MB limit
+# models/*.np 
+# models/*.pkl
+# Ignore large model files if they exceed GitHub's 100MB limit
+models/*.np 
+models/*.pkl

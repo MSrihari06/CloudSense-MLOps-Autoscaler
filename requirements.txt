@@ -1,0 +1,8 @@
+confluent-kafka==2.3.0
+polars==0.20.10
+pandas==2.2.0
+transformers==4.38.2
+torch==2.6.0
+neuralprophet==0.8.0
+prometheus_client==0.20.0
+python-dotenv==1.0.1
